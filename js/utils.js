@@ -1,0 +1,1 @@
+export const CONTACT={whatsapp:"https://wa.me/923298612683?text=Hi%20Hammad%2C%20I%20want%20to%20discuss%20a%20project",email:"mailto:hammadthis3@gmail.com",tiktok:"https://www.tiktok.com/@YOUR_USERNAME"};
