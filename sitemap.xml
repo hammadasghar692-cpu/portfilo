@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/index.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/about.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/services.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/portfolio.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/pricing.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/contact.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/terms.html</loc></url>
-<url><loc>https://YOUR_USERNAME.github.io/hammad-portfolio/privacy.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/create.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
 </urlset>
