@@ -101,3 +101,10 @@ footer{padding:3rem 0 5rem;border-top:1px solid rgba(154,168,199,.12);color:var(
 @media(max-width:900px){.fgrid{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){.fgrid{grid-template-columns:1fr}.fbottom{flex-direction:column;align-items:flex-start}.fbottom span a:first-child{margin-left:0}}
 @media(prefers-reduced-motion:reduce){.loader{display:none}}
+
+/* projects */
+.proj-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr))}
+.proj{display:flex;flex-direction:column}
+.proj .tag{font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--gold2)}
+.proj h3{margin:.5rem 0 .8rem}.proj>p{flex:1}.proj .btn{margin-top:1.4rem;align-self:flex-start}
+.proj .url{font-size:.85rem;margin-top:.7rem;word-break:break-all}
